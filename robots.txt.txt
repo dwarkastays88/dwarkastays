@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dwarkastays88.github.io/dwarkastays/sitemap.xml
